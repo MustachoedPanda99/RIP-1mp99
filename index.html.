@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="html, course, css, tags">
+    <meta name="description" content="Тимуру нужно  пойти поплакать в туалете после такого!">
+    <title>Fake site</title>
+</head>
+<body bgcolor="#fa8e47">
+    <h1><strong>Це Я!</strong></h1>
+    <img src="Photo1.jpg" width="400" alt="Бескровный Артем">
+    <h2>Бескровный Артем</h2>
+    <p>(Парень слева) Я начинающий программист и планирую сделать это своей основной деятельностью,поэтому я занимаюсь эти прямо сейчас!</p>
+    <p style="text-align:center">
+   <h3>Список социальных сетей:</h3>
+   <a href="https://web.telegram.org/k/" target="_blank">Telegram</a> 
+   |
+   <a href="https://vk.com/moustachedpanda" target="_blank">Vkontakte</a>
+   <h4>Мои Хобби</h4>
+        <ol>
+            <li>Я люблю пешие <strong>прогулки</strong></li>
+            <li><em>Компьютерные игры</em></li>
+            <li>Путешествия</li>
+            <li>Спортивное ориентирование</li>
+            <li>Баскетбол   </li>
+        </ol></p>
+        <h5>Опыт Рабои</h5>
+   <table>             
+     <thead>
+        <tr>
+            <th>Название</th>
+            <th>Должность</th>
+            <th>Год</th>
+        </tr>
+        <tr>
+            <td>Market Place</td>
+            <td>Повар</td>
+            <td>2019-2020</td>
+        </tr>
+        <tr>
+            <td>Градусы</td>
+            <td>Продавец-кассир</td>
+            <td>2020-2020</td>       
+        </tr>
+        <tr>
+            <td>Самокат</td>
+            <td>Курьер</td>   
+            <td>2020-2021</td>   
+        </tr>
+        <tr>
+            <td>Тинькофф Банк</td>
+            <td>Оператор службы поддержки</td>
+            <td>2021-2021</td>
+        </tr>
+        <tr>
+            <td>Больница Святого Георгия</td>
+            <td>Служба сопровождения пациентов</td>   
+            <td>2021-2022</td>   
+        </tr>
+     </thead>
+   </table>
+</body> 
+</html>
